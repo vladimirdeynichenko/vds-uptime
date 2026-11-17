@@ -16,5 +16,23 @@
     "timeMonth": 1016,
     "timeYear": 1016,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Telegram Notification Test",
+    "url": "https://pulseping.ru/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/pulseping.ru.ico",
+    "slug": "telegram-notification-test",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 916,
+    "timeDay": 916,
+    "timeWeek": 916,
+    "timeMonth": 916,
+    "timeYear": 916,
+    "dailyMinutesDown": {}
   }
 ]
