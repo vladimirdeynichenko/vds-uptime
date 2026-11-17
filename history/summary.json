@@ -22,17 +22,19 @@
     "url": "https://pulseping.ru/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/pulseping.ru.ico",
     "slug": "telegram-notification-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 916,
-    "timeWeek": 916,
-    "timeMonth": 916,
-    "timeYear": 916,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "3.02%",
+    "uptimeDay": "3.02%",
+    "uptimeWeek": "3.02%",
+    "uptimeMonth": "3.02%",
+    "uptimeYear": "3.02%",
+    "time": 871,
+    "timeDay": 871,
+    "timeWeek": 871,
+    "timeMonth": 871,
+    "timeYear": 871,
+    "dailyMinutesDown": {
+      "2026-11-17": 11
+    }
   }
 ]
