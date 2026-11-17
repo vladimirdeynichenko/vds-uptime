@@ -7,7 +7,7 @@ sites:
     expectedStatusCodes: [200]
   - name: Telegram Notification Test
     url: https://pulseping.ru/api/health
-    expectedStatusCodes: [201]
+    expectedStatusCodes: [200]
 
 workflowSchedule:
   updates: "*/5 * * * *"
