@@ -1,7 +1,7 @@
 url: https://pulseping.ru/api/health
-status: down
+status: up
 code: 200
-responseTime: 916
-lastUpdated: 2026-11-17T20:40:34.385Z
+responseTime: 825
+lastUpdated: 2026-11-17T20:51:07.994Z
 startTime: 2026-11-17T20:40:19.538Z
 generator: Upptime <https://github.com/upptime/upptime>
