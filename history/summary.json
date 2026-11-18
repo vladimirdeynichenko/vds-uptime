@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1016,
-    "timeWeek": 1016,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "time": 893,
+    "timeDay": 893,
+    "timeWeek": 893,
+    "timeMonth": 893,
+    "timeYear": 893,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Telegram Notification Test",
-    "url": "https://pulseping.ru/api/health",
-    "icon": "https://icons.duckduckgo.com/ip3/pulseping.ru.ico",
-    "slug": "telegram-notification-test",
-    "status": "up",
-    "uptime": "3.02%",
-    "uptimeDay": "3.02%",
-    "uptimeWeek": "3.02%",
-    "uptimeMonth": "3.02%",
-    "uptimeYear": "3.02%",
-    "time": 871,
-    "timeDay": 871,
-    "timeWeek": 871,
-    "timeMonth": 871,
-    "timeYear": 871,
-    "dailyMinutesDown": {
-      "2026-11-17": 11
-    }
   }
 ]
